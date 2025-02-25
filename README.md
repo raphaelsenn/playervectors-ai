@@ -4,6 +4,15 @@ Clustering and predicting PlayerVectors using Machine Learning and Deep Learning
 ## Player Vectors
 Player Vectors summarise the playing styles of individual football players.
 
+#### Install Player Vectors
+
+I implemented the entire concept of Player Vectors.
+You can install my **`Player Vector`** package via pip:
+
+```bash
+pip install playervectors
+```
+
 ## Cluster Player Vectors using t-SNE
 
 ![image](res/playervector_cluster_tsne.png)
