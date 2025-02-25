@@ -25,3 +25,15 @@ Used Classification Models:
 
 ### Confusion matrices of classifiers
 ![image](res/clf_confusion_matrix.png)
+
+## Citations
+
+```bibtex
+@article{ecmlpkdd2019,
+  title     = {Player Vectors: Characterizing Soccer Players’
+Playing Style from Match Event Streams},
+  author    = {Tom Decroos, Jesse Davis},
+  journal   = {ecmlpkdd2019},
+  year      = {2019},
+}
+```
